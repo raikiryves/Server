@@ -1,0 +1,31 @@
+﻿[
+    {
+        "characterId": 10000001,
+        "baseStat": [
+            {
+                "atk": 7,
+                "def": 5,
+                "hp": 1000,
+
+            }
+        ],
+        "skill": [
+            {
+                "multi" : 50,
+                "energy": 4,
+                "chance": 50
+            },
+            {
+                "base": 112,
+                "energy": 15,
+                "chance": 50
+            },
+            {
+                "multi": 150,
+                "energy": 10,
+                "chance": 50
+            }
+        ]
+    }
+
+]
