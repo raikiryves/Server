@@ -1,31 +1,213 @@
-﻿[
+[
     {
         "characterId": 10000001,
+        "Star": 5,
+        "Element": "Physical",
         "baseStat": [
             {
-                "atk": 7,
-                "def": 5,
-                "hp": 1000,
-
+                "baseHp": 120,
+                "atk": 10.5,
+                "def": 7.5,
+                "speed": 94
             }
         ],
         "skill": [
             {
                 "multi" : 50,
                 "energy": 4,
-                "chance": 50
+                "aoe": 0
             },
             {
                 "base": 112,
                 "energy": 15,
-                "chance": 50
+                "aoe": 1
             },
             {
                 "multi": 150,
                 "energy": 10,
-                "chance": 50
+                "aoe": 1
             }
         ]
-    }
+    },
+    {
+        "characterId": 10000002,
+        "Star": 4,
+        "Element": "Wind",
+        "baseStat": [
+            {
+                "baseHp": 110,
+                "atk": 7,
+                "def": 5,
+                "speed": 98
+            }
+        ],
+        "skill": [
+            {
+                "multi" : 60,
+                "energy": 3,
+                "aoe": 0
+            },
+            {
+                "base": 100,
+                "energy": 12,
+                "aoe": 1
+            },
+            {
+                "multi": 120,
+                "energy": 8,
+                "aoe": 1
+            }
+        ]
+    },
+    {
+        "characterId": 10000003,
+        "Star": 4,
+        "Element": "Fire",
+        "baseStat": [
+            {
+                "baseHp": 115,
+                "atk": 7,
+                "def": 5,
+                "speed": 89
+            }
+        ],
+        "skill": [
+            {
+                "multi" : 40,
+                "energy": 5,
+                "aoe": 0
+            },
+            {
+                "base": 90,
+                "energy": 18,
+                "aoe": 1
+            },
+            {
+                "multi": 130,
+                "energy": 12,
+                "aoe": 1
+            }
+        ]
+    },
+    {
+        "characterId": 10000004,
+        "Star": 5,
+        "Element": "Ice",
+        "baseStat": [
+            {
+                "baseHp": 120,
+                "atk": 10.5,
+                "def": 7.5,
+                "speed": 117
+            }
+        ],
+        "skill": [
+            {
+                "multi" : 55,
+                "energy": 4,
+                "aoe": 0
+            },
+            {
+                "base": 120,
+                "energy": 15,
+                "aoe": 1
+            },
+            {
+                "multi": 160,
+                "energy": 10,
+                "aoe": 1
+            }
+        ]
+    },
+    {
+        "characterId": 10000005,
+        "Star": 5,
+        "Element": "Hydro",
+        "baseStat": [
+            {
+                "baseHp": 120,
+                "atk": 10.5,
+                "def": 7.5,
+                "speed": 99
+            }
+        ],
+        "skill": [
+            {
+                "multi" : 50,
+                "energy": 4,
+                "aoe": 0
+            },
+            {
+                "base": 112,
+                "energy": 15,
+                "aoe": 1
+            },
+            {
+                "multi": 150,
+                "energy": 10,
+                "aoe": 1
+            }
+        ]
+      },
+      {
+        "characterId": 10000006,
+        "Star": 5,
+        "Element": "Electro",
+        "baseStat": [
+            {
+                "baseHp": 120,
+                "atk": 15,
+                "def": 10,
+                "speed": 114
+            }
+        ],
+        "skill": [
+            {
+                "multi" : 50,
+                "energy": 4,
+                "aoe": 0
+            },
+            {
+                "base": 112,
+                "energy": 15,
+                "aoe": 1
+            },
+            {
+                "multi": 150,
+                "energy": 10,
+                "aoe": 1
+            }
+        ]
+    },
 
+     {
+        "characterId": 10000007,
+        "Star": 5,
+        "Element": "Fire",
+        "baseStat": [
+            {
+                "baseHp": 120,
+                "atk": 15,
+                "def": 10,
+                "speed": 103
+            }
+        ],
+          "skill": [
+            {
+                "multi" : 50,
+                "energy": 4,
+                "aoe": 0
+            },
+            {
+                "base": 112,
+                "energy": 15,
+                "aoe": 1
+            },
+            {
+                "multi": 150,
+                "energy": 10,
+                "aoe": 1
+            }
+        ]
+     }
 ]
