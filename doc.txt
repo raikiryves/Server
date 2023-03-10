@@ -1,0 +1,15 @@
+Rai
+Star : 5
+Constellation :
+
+Searing Ember - Boost Rai's DMG by 15%.
+
+Flowing Flame - Boosts the damage dealt by Rai's Elemental Skill by 15%, it now has a 10% chance to apply grievous.
+
+Flaming Sword, Nemesis of Dark - Increases the level of Rai's Elemental Skill by 3, unlocking stronger effects and increasing his overall damage output.
+
+Phoenix, Harbinger of Dawn - Rai now has a 25% chance to apply grevious on Skill and 15% chance on Elemental burst.
+
+Dawn - Increases the level of Diluc's Elemental Burst by 3, unlocking stronger effects and increasing his overall damage output even further. 
+
+Effort of Finality - Bursts have their overall critical hit rate increased by 15%.
